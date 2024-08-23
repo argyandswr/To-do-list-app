@@ -1,0 +1,14 @@
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\finalProject.AssemblyInfoInputs.cache
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\finalProject.AssemblyInfo.cs
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\finalProject.csproj.CoreCompileInputs.cache
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\bin\Debug\net8.0\finalProject.exe
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\bin\Debug\net8.0\finalProject.deps.json
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\bin\Debug\net8.0\finalProject.runtimeconfig.json
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\bin\Debug\net8.0\finalProject.dll
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\bin\Debug\net8.0\finalProject.pdb
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\finalProject.dll
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\refint\finalProject.dll
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\finalProject.pdb
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\finalProject.genruntimeconfig.cache
+D:\College Life\Semester 2\Pemrograman\FP To-do List\finalProject\obj\Debug\net8.0\ref\finalProject.dll
